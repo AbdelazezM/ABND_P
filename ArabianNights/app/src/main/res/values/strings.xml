@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArabianNights</string>
+    <string name="welcome_message">Welcome to</string>
+    <string name="businessName">Arabian Nights</string>
+    <string name="business_type">Cafe</string>
+    <string name="address">Address: Al Mandarah Bahri,Alexandria,Egypt.</string>
+    <string name="phoneNumber">Phone: +20111 134 7866</string>
+    <string name="credits">https://www.pexels.com/photo/two-clear-drinking-glasses-733763/</string>
+</resources>
